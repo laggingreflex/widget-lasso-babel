@@ -1,0 +1,7 @@
+{
+    "dependencies": [
+        "require: babel-polyfill",
+        "require: marko-widgets",
+        "require: ./widget"
+    ]
+}
