@@ -18,7 +18,7 @@
     "bluebird": "^3.3.4",
     "browser-refresh-taglib": "^1.0.4",
     "express": "^4.4.1",
-    "jquery": "^3.5.0",
+    "jquery": "^3.5.1",
     "lasso": "^2.1.5",
     "lasso-marko": "^2.0.7",
     "marko": "^3.0.3",
